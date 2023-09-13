@@ -13,10 +13,13 @@ upload!
  Subscribe: https://www.youtube.com/@tiefsoftwarelab?sub_confirmation=1
 
 # Follow my social Median as well
-.Facebook - https://www.facebook.com/tiefsoftwarelab
-.Instagram - https://www.instagram.com/tiefsoftwarelab
-.Twitter - https://twitter.com/tiefsoftwarelab
-.GitHub - https://github.com/tiefsoftwarelab
+ Facebook - https://www.facebook.com/tiefsoftwarelab
+ 
+ Instagram - https://www.instagram.com/tiefsoftwarelab
+ 
+ Twitter - https://twitter.com/tiefsoftwarelab
+ 
+ GitHub - https://github.com/tiefsoftwarelab
 
 
  # Tief Software Lab
